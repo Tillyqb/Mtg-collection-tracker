@@ -16,6 +16,12 @@
 
     <developers>
         <developer>
+            <name>Matilda Basner</name>
+            <email>matilda.basner@gmail.com</email>
+            <organization>none</organization>
+            <organizationUrl>https://github.com/Tillyqg</organizationUrl>
+        </developer>
+        <developer>
             <name>Rick Marczak</name>
             <email>cryos@lonewolfcode.net</email>
             <organization>none</organization>
